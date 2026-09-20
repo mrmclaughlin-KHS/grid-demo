@@ -1,0 +1,46 @@
+html, body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    border-radius: 15px;;
+}
+
+.hero {
+    background-color: rgb(198, 198, 198);
+    margin: 0px;
+    padding: 30px;
+    text-align: center;
+}
+
+.navbar {
+    background-color: black;
+    padding: 5px;
+}
+.navbar a {
+    color: white;
+    padding: 5px 20px;
+}
+.section {
+    background-color: lightgrey;
+    border-radius: 15px;
+    margin: 15px;
+    padding: 15px 50px;
+}
+
+
+
+
+.container {
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: darkgrey;
+}
+
+
+.item {
+    background-color: white;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
